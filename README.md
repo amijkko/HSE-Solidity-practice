@@ -4,7 +4,7 @@ Lessons for course Introduction to Ethereum and solidity
 # Final Task 
 
 Token Contract Adress 
- - 0xdeB9AaD9A1521aF6a6a9C19a3f4066729dc03fC2
+ - 0x8E02FC8cF6d3DF5693eb3c36aB6ECe73E95300A0
 
 
 Lottery Contract
