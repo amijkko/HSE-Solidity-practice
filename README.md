@@ -13,7 +13,9 @@ Lottery Contract
 # Security Task
 
 # Task 
-deploy securityTask1TokenOverflow.sol contract(for example with 200 initial supply)
+deploy securityTask1TokenOverflow.sol contract(for example with 200 initial supply).
+
+
 Initially you get 200 token as initial Balance, you task get as many tokens as you can! 
 
 
