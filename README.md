@@ -10,3 +10,12 @@ Token Contract Adress
 Lottery Contract
 - 0x436d83fa4469114720CF3E7Fbe6F8C0478e1D114
 
+# Security Task
+
+Task 
+Initially you get N token as totalSupply, you task get as many tokens as you can! 
+
+
+
+
+
