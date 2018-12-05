@@ -12,7 +12,7 @@ Lottery Contract
 
 # Security Task
 
-Task 
+# Task 
 Initially you get N token as totalSupply, you task get as many tokens as you can! 
 
 
