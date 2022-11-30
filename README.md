@@ -3,12 +3,12 @@ Lessons for course Introduction to Ethereum and solidity
 
 # Final Task 
 
-Token Contract Adress 
- - 0x90e65131fcf6b1f18741d7f78fb27ad07c999282
+Token Contract Adress goerli 
+ - 0x236926F1bDb33861DD1ACDd48715665dEB0719Ba
 
 
-Lottery Contract
-- 0x5f1d95469951baf3b7a5c68ec0fe5a9584175134
+Lottery Contract goerli
+- 0xcedCB389Ad8E539CA320877DBFE62319bF30c4eA
 
 # Security Task
 
