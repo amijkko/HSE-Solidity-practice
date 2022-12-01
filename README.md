@@ -8,7 +8,7 @@ Token Contract Adress goerli
 
 
 Lottery Contract goerli
-- 0x236926F1bDb33861DD1ACDd48715665dEB0719Ba
+- 0x908398c8d298A6812Fc8015fEb66ABf3c0582c06
 
 # Security Task
 
